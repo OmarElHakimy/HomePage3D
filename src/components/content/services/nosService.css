@@ -1,0 +1,12 @@
+div .containers{
+    margin-left: "250px"; 
+    margin-right: "250px"; 
+    margin-bottom: "100px";
+}
+@media only screen and (max-width: 770px){
+    .containers{
+        margin-left: "10px"; 
+        margin-right: "10px"; 
+        margin-bottom: "10px";
+    }
+}

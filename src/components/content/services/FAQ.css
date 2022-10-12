@@ -1,0 +1,11 @@
+a.nav-link{
+   background-color: #A1D6E2
+}
+a.nav-link:hover{
+   background-color: #1995AD
+}
+a.active{
+    color:#1995AD;
+    background-color: #1995AD ;
+}
+  
